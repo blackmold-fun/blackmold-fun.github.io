@@ -1,0 +1,23 @@
+title: blackmold.fun
+author: ccollicutt
+subtitle: The mold will eventually win
+
+url: "https://blackmold.fun"
+baseurl: ""
+
+footer_only_homepage: false
+footer_url: "https://blackmold.fun"
+footer_text: "The mold is coming..."
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "About"
+   link: "about"
+
