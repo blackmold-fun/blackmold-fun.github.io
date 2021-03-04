@@ -9,6 +9,13 @@ $max-width: 740px;
 $med-width: 600px;
 $small-width: 480px;
 
+
+code,
+.code,
+pre {
+   overflow-x: scroll;
+}
+
 // Basic
 
 body {
@@ -31,10 +38,12 @@ hr {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
-code {
-    background-color: #d8e7ff;
-    color: #002b72;
-}
+
+
+// code {
+//     background-color: #d8e7ff;
+//     color: #002b72;
+// }
 
 // divs
 
