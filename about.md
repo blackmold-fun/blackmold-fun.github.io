@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Me
+title: About
 ---
 
 When I started my career in security I worked at a large online university as the security administrator, but that really meant managing “the firewall” which was a 12+ interface Sun box running Checkpoint Firewall. It sucked. At that time, security was in a dark place. It was filled with people who weren’t very happy and who only said no (me included). I eventually got out of the security industry because it just didn’t seem like it was advancing enough, nothing was changing. We were inventing new tech but same old people and processes. To this day, we still seem like we’re a bit in the dark ages of security. Things are breaking all over the place *solar winds cough cough*. Overall, I know we’ve made improvements, but it still doesn’t seem like enough. (Of course, I have no real solutions.)
