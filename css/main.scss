@@ -17,6 +17,11 @@ pre {
    scrollbar-color: #004d00 #003300;
 }
 
+.highlight {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 // Basic
 
 body {
@@ -39,6 +44,7 @@ hr {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
+
 
 
 // code {
