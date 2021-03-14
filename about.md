@@ -9,7 +9,7 @@ So that short paragraph gives you an idea of where I am mentally with security, 
 
 ## Blackmold.fun
 
-I called it “blackmold” because I like the idea of something growing into a system without any real initialization, and that the underlying system has no control over what is happening to it. Not so much a virus, but just something that grows on top, something ugly, and hard to get rid of. The vision I have in my head right now is of a black mold taking over a Kuberentes system and running it itself, locking out all the actual users and managing the applications running on it on its own. What would happen if, just like blackmold, security just appeared in your systems and took control? Would it be better, worse, indifferent? I mean, it's not like we actually know what's going on in our systems anyways, so why not let some mold take over.
+I called it “blackmold” because I like the idea of something growing into a system without any real initialization, and that the underlying system has no control over what is happening to it. Not so much a virus, but just something that grows on top, something ugly, and hard to get rid of. The vision I have in my head right now is of a black mold taking over a Kuberentes system and running it itself, locking out all the actual users and managing the applications running on it on its own. What would happen if, just like blackmold, security just appeared in your systems and took control, covering everything with a gross black/orange growth? Would it be better, worse, indifferent? I mean, it's not like we actually know what's going on in our systems anyways, so why not let some mold take over.
 
 Also the domain was ~$8 for two years. 
 
